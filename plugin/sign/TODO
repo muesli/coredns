@@ -1,0 +1,6 @@
+* glue, delegation
+* more tests, test nsec sorting, test zone signing apex only zone etc.
+  resign test, key parse test
+* discard bad keys on default
+* empty-non-terminals
+* remove write from Sign.
